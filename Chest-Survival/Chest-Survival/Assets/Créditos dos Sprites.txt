@@ -1,0 +1,7 @@
+Sprites usados neste tutorial:
+
+Imagem de Fundo / Árvore / Piso: Sunny Land (por ansumuz) -- https://ansimuz.itch.io/sunny-land-pixel-game-art
+
+Baú / Chave: 2D - Chests And Coins (Animated) (por Jan Schneider) -- https://jan-schneider.itch.io/chest-and-coins
+
+Personagem: Sprite Pack 4 (por GrafxKid) -- https://grafxkid.itch.io/sprite-pack-4
